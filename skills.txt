@@ -16,3 +16,4 @@ d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","cont
 a:null
 b:null
 f:[["$","title","0",{"children":"Dhruv Kumar - Frontend Developer"}],["$","meta","1",{"name":"description","content":"Frontend Developer with 2+ years of experience building scalable, responsive web applications"}],["$","meta","2",{"name":"generator","content":"v0.dev"}]]
+
